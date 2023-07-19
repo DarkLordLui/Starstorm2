@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FirstLoad: 1
   ShowOnStartup: 1
-  GameExecutable: 
-  GamePath: 
-  Is64Bit: 0
+  GameExecutable: Risk of Rain 2.exe
+  GamePath: C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2
+  Is64Bit: 1
   DateTimeFormat: HH:mm:ss:fff
   CreatedDateFormat: MMM/dd HH:mm:ss
   ShowLogWindow: 1
@@ -25,9 +25,11 @@ MonoBehaviour:
   CachedImageCount: 0
   CacheSize: 0
   MarkdownOpenMode: 1
-  SelectedPipeline: {fileID: 0}
+  SelectedPipeline: {fileID: 11400000, guid: faec8f66831ec3a44a5c6258785e6ef2, type: 2}
   SelectedManifest: {fileID: 0}
   QuickAccessPipelines:
+  - {fileID: 11400000, guid: faec8f66831ec3a44a5c6258785e6ef2, type: 2}
+  - {fileID: 11400000, guid: 181aea228bef6d646a06f7e2a653bac7, type: 2}
   - {fileID: 11400000, guid: 33528692ad1d19c4cb72c9f4687597c9, type: 2}
   - {fileID: 11400000, guid: 6daa08e2318d25b45bcb588bdd37fa1d, type: 2}
   - {fileID: 11400000, guid: 07ebf539b5a548f4cb6711a4120d9748, type: 2}
@@ -37,5 +39,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 47f6b8c702866f147881605d9aa112f7, type: 2}
   QuickAccessManifests:
   - {fileID: 11400000, guid: 5ceb1d8ed3af40d4d806e9756b403649, type: 2}
-  ImportConfiguration: {fileID: 11400000, guid: a43960084f83ebd44b0f689d8da1ce9f,
+  ImportConfiguration: {fileID: 11400000, guid: b6b10ead92e92524ba3a4e6f3441d5f0,
     type: 2}

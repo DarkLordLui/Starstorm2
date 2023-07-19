@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1881990681, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Name: DUT
+  m_EditorClassIdentifier: 
+  bodyPrefab: {fileID: 7057294292159621830, guid: 9c02121a815f1314b9c33d59b548a2d0,
+    type: 3}
+  displayPrefab: {fileID: 1975564253180418526, guid: 192c7c17aa1d3e04da0c84e236386d6f,
+    type: 3}
+  unlockableName: 
+  unlockableDef: {fileID: 0}
+  displayNameToken: SS2_DUT_BODY_NAME
+  descriptionToken: SS2_DUT_DESCRIPTION
+  outroFlavorToken: SS2_DUT_OUTRO_FLAVOR
+  mainEndingEscapeFailureFlavorToken: SS2_DUT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR
+  primaryColor: {r: 1, g: 1, b: 1, a: 0}
+  desiredSortPosition: 0
+  hidden: 0
